@@ -10,7 +10,6 @@ The project implements a ticket sales system for events with user management, an
 
 🔐 User system (registration, login, and roles)
 🧾 Ticket management (create, edit, delete, list)
-🧍‍♂️ Admin panel with full ticket control
 🛒 Ticket purchasing module (selection and cart)
 📊 Full CRUD operations implemented with CodeIgniter
 🎨 Responsive design using Bootstrap 5, HTML, and CSS
